@@ -2,6 +2,7 @@
 Data cleaning
 --
 **Cleaning Process;**
+
 ◼️ Duplicate check
 
 - No duplicate record was found on the Order ID column.
